@@ -84,6 +84,15 @@
     {
       "name": "erc20-balance-of-with-delegation",
       "params": {
+        "symbol": "COW (Polygon)",
+        "address": "0x2F4efd3Aa42E15a1eC6114547151B63EE5D39958",
+        "decimals": 18
+      },
+      "network": "137"
+    },
+    {
+      "name": "erc20-balance-of-with-delegation",
+      "params": {
         "symbol": "COW (Base)",
         "address": "0xc694a91e6b071bF030A18BD3053A7fE09B6DaE69",
         "decimals": 18
